@@ -1,0 +1,165 @@
+{
+  "_nota": "Fuente de contenido para la animación. Extraído SOLO de contenido/tp-completo.md (que prevalece si hay conflicto). Los campos marcados con 'inferido' no están escritos literalmente en el TP.",
+  "titulo": "Las siete iglesias",
+  "referencia": "Apocalipsis 2 y 3",
+  "idea_central": "Siete cartas dictadas por Cristo resucitado a las iglesias de Asia Menor. Además de su aplicación literal en el siglo I, desde la interpretación profética adventista representan siete períodos sucesivos de la historia de la iglesia, desde la era apostólica hasta el tiempo del fin. El número siete simboliza plenitud y totalidad.",
+  "estructura_de_cada_carta": "Cristo se presenta con títulos y símbolos específicos, reconoce las obras, señala los peligros, llama al arrepentimiento y ofrece promesas a los vencedores.",
+  "iglesias": [
+    {
+      "id": "efeso",
+      "orden": 1,
+      "nombre": "Éfeso",
+      "referencia": "Apocalipsis 2:1-7",
+      "periodo": { "etiqueta": "La iglesia apostólica", "desde": 30, "hasta": 100, "era": "d.C.", "aproximado": true },
+      "ciudad": "Una de las ciudades más importantes de Asia Menor, conocida por su comercio, su cultura y el culto a la diosa Artemisa. Iglesia fundada por Pablo y fortalecida por Apolos y Timoteo.",
+      "mensaje": "Trabaja, se esfuerza y defiende la doctrina contra los falsos maestros, pero abandonó su primer amor: el fervor espiritual se enfría.",
+      "simbolos": [
+        { "nombre": "Las siete estrellas en su diestra", "significado": "Los ángeles o pastores de las iglesias, sostenidos por Cristo." },
+        { "nombre": "Los siete candeleros de oro", "significado": "Las iglesias como luz en el mundo." },
+        { "nombre": "El árbol de la vida", "significado": "Promesa de vida eterna para el vencedor." }
+      ],
+      "leccion": "Las cosas buenas se pueden hacer, pero sin amor carecen de valor."
+    },
+    {
+      "id": "esmirna",
+      "orden": 2,
+      "nombre": "Esmirna",
+      "referencia": "Apocalipsis 2:8-11",
+      "periodo": { "etiqueta": "La iglesia perseguida", "desde": 100, "hasta": 313, "era": "d.C.", "aproximado": true },
+      "ciudad": "Ciudad próspera y fuertemente vinculada al culto imperial. La iglesia vivía en pobreza material y tribulación, pero era espiritualmente rica.",
+      "mensaje": "Cristo anima a una iglesia que sufre persecución. No recibe reprensión alguna: es una iglesia ejemplar y sana, llamada a permanecer fiel hasta la muerte.",
+      "cristo_se_presenta": "El primero y el postrero, el que estuvo muerto y vivió",
+      "simbolos": [
+        { "nombre": "El primero y el postrero, el que estuvo muerto y vivió", "significado": "Cristo tiene autoridad sobre la vida y la muerte." },
+        { "nombre": "Los diez días de tribulación", "significado": "Se relacionan con los diez años de persecución bajo el emperador Diocleciano, aproximadamente 303-313 d.C." },
+        { "nombre": "La corona de la vida", "significado": "Recompensa eterna para los fieles." },
+        { "nombre": "La muerte segunda", "significado": "Separación eterna de Dios." }
+      ],
+      "leccion": "La riqueza espiritual supera cualquier pobreza material; la fidelidad hasta la muerte asegura la corona de la vida."
+    },
+    {
+      "id": "pergamo",
+      "orden": 3,
+      "nombre": "Pérgamo",
+      "referencia": "Apocalipsis 2:12-17",
+      "periodo": { "etiqueta": "La iglesia del estado", "desde": 313, "hasta": 538, "era": "d.C.", "aproximado": true },
+      "ciudad": "Importante centro religioso y político de Asia Menor, con culto al emperador y templos paganos. Descrita como el lugar donde está el «trono de Satanás».",
+      "mensaje": "Se mantuvo firme en el nombre de Cristo y no negó la fe, pero toleró doctrinas falsas. Advertencia contra la complacencia doctrinal.",
+      "simbolos": [
+        { "nombre": "La espada aguda de dos filos", "significado": "El poder penetrante y el juicio de la Palabra de Dios, que discierne los pensamientos y las intenciones del corazón." },
+        { "nombre": "El maná escondido", "significado": "El sustento espiritual y la comunión íntima con Cristo." },
+        { "nombre": "La piedra blanca con un nuevo nombre", "significado": "La justificación, la victoria y la identidad nueva que Cristo concede al vencedor." },
+        { "nombre": "Las doctrinas de Balaam y de los nicolaítas", "significado": "Falsas enseñanzas que introducían idolatría e inmoralidad en la iglesia." }
+      ],
+      "leccion": "Cuidado con las falsas doctrinas: mantenerse firme en la Palabra y no tolerar enseñanzas que desvían del evangelio."
+    },
+    {
+      "id": "tiatira",
+      "orden": 4,
+      "nombre": "Tiatira",
+      "referencia": "Apocalipsis 2:18-29",
+      "periodo": { "etiqueta": "La iglesia papal", "desde": 538, "hasta": 1517, "era": "d.C.", "aproximado": true },
+      "ciudad": "Ciudad comercial con numerosos gremios de artesanos, lo que favorecía la participación en prácticas idolátricas y compromisos sociales contrarios a la fe.",
+      "mensaje": "Crece en obras, amor, fe, servicio y perseverancia, pero tolera a «Jezabel», una falsa profetisa que induce a la fornicación y a la idolatría.",
+      "cristo_se_presenta": "El Hijo de Dios, con ojos como llama de fuego y pies semejantes al bronce bruñido",
+      "simbolos": [
+        { "nombre": "Ojos como llama de fuego", "significado": "La omnisciencia divina, que escudriña los corazones." },
+        { "nombre": "Pies semejantes al bronce bruñido", "significado": "La firmeza y el juicio justo de Cristo." },
+        { "nombre": "Jezabel", "significado": "La falsa enseñanza y la seducción espiritual que lleva a la inmoralidad y a la idolatría." },
+        { "nombre": "La estrella de la mañana", "significado": "Cristo mismo, la esperanza de la eternidad." },
+        { "nombre": "Autoridad sobre las naciones", "significado": "Participación en el reino de Cristo para quienes venzan." }
+      ],
+      "leccion": "Equilibrar el amor y el servicio con la pureza doctrinal y moral; respetar lo que Dios manda aunque lo de afuera parezca mejor."
+    },
+    {
+      "id": "sardis",
+      "orden": 5,
+      "nombre": "Sardis",
+      "referencia": "Apocalipsis 3:1-6",
+      "periodo": {
+        "etiqueta": "La iglesia posterior a la Reforma",
+        "desde": 1517,
+        "hasta": 1798,
+        "era": "d.C.",
+        "aproximado": true,
+        "nota": "El TP indica 1517/1565 y 1740/1798. Se usan los extremos 1517 y 1798; el equipo debe confirmar el criterio."
+      },
+      "ciudad": "Capital del reino de Lidia bajo el rey Creso; acuñó las primeras monedas de oro y plata. Su fortaleza se alzaba sobre una meseta rocosa de unos 450 m. Confió tanto en su defensa natural que descuidó la vigilancia y cayó por sorpresa ante Ciro (hacia el 546 a.C.) y ante Antíoco el Grande (hacia el 214 a.C.).",
+      "mensaje": "Una comunidad con fama de viva que está muerta: formalismo, apatía y estancamiento. El protestantismo que conservó la ortodoxia pero perdió la piedad viva y no completó la Reforma.",
+      "cristo_se_presenta": "El que tiene los siete espíritus de Dios y las siete estrellas",
+      "cita_clave": { "texto": "Yo conozco tus obras, que tienes nombre de que vives, y estás muerto.", "referencia": "Apocalipsis 3:1" },
+      "simbolos": [
+        { "nombre": "Los siete espíritus de Dios", "significado": "La plenitud, la perfección y la variedad de dones del Espíritu Santo (no son siete espíritus distintos)." },
+        { "nombre": "Las siete estrellas", "significado": "A pesar del declive, el liderazgo y los miembros legítimos siguen bajo el dominio y la protección de la diestra de Cristo." },
+        { "nombre": "Vestiduras blancas", "significado": "Victoria e imputación de la justicia perfecta de Cristo; también el atavío de inmortalidad en el reino eterno." },
+        { "nombre": "El Libro de la Vida", "significado": "Ciudadanía permanente en el registro celestial de los salvos." },
+        { "nombre": "Vendré como ladrón", "significado": "Evoca la caída de la ciudad por el descuido de sus centinelas; se aplica al cierre repentino del tiempo de gracia." }
+      ],
+      "cinco_acciones": [
+        "Sé vigilante",
+        "Confirma las otras cosas que están para morir",
+        "Acuérdate de lo que has recibido y oído",
+        "Guárdalo",
+        "Arrepiéntete"
+      ],
+      "remanente": "«Unas pocas personas» que no mancharon sus vestiduras.",
+      "leccion": "Una fe sin obras y una Reforma sin terminar: velar, recordar, guardar y arrepentirse."
+    },
+    {
+      "id": "filadelfia",
+      "orden": 6,
+      "nombre": "Filadelfia",
+      "referencia": "Apocalipsis 3:7-13",
+      "referencia_nota": "El TP no escribe el rango de versículos de Filadelfia (solo cita 3:8 y 3:11). 3:7-13 es el pasaje estándar: confirmar.",
+      "periodo": { "etiqueta": "La iglesia del reavivamiento", "desde": 1798, "hasta": 1844, "era": "d.C.", "aproximado": false },
+      "ciudad": "A unos 60 km de Sardis. Su nombre significa «amor fraternal» (phílos + adelphós). Fundada por Atalo II Filadelfo; centro comercial sobre una ruta imperial. Sufrió varios terremotos y fue reconstruida bajo Tiberio, en el siglo I d.C.",
+      "mensaje": "La única iglesia que solo recibe elogios: «Tienes poca fuerza, has guardado mi palabra, y no has negado mi nombre». Reavivamiento evangélico y despertar misionero, hasta el movimiento millerita y el Gran Chasco del 22 de octubre de 1844.",
+      "cristo_se_presenta": "El que tiene la llave de David, el que abre y ninguno cierra, y cierra y ninguno abre",
+      "hitos": [
+        { "anio": 1798, "texto": "Fin de la supremacía papal e inicio del tiempo del fin (Daniel 12:4)." },
+        { "anio": 1804, "texto": "Se funda la Sociedad Bíblica Británica." },
+        { "anio": 1816, "texto": "Se funda la Sociedad Bíblica Americana." },
+        { "anio": 1844, "texto": "22 de octubre: el Gran Chasco. Jesús no volvió como se esperaba; según la interpretación adventista de Daniel 8:14, comienza la purificación del Santuario celestial (Juicio Investigador)." }
+      ],
+      "personajes": ["John Wesley", "George Whitefield", "William Carey", "William Miller"],
+      "simbolos": [
+        { "nombre": "La llave de David", "significado": "Inicio del ministerio de Cristo en el Santuario celestial." },
+        { "nombre": "La puerta abierta que nadie puede cerrar", "significado": "Inicio del ministerio en el Santuario celestial." },
+        { "nombre": "Columna en el templo de mi Dios", "significado": "Promesa al vencedor: nunca más saldrá de allí." },
+        { "nombre": "El nombre de Dios, de la ciudad de Dios (la nueva Jerusalén) y el nombre nuevo", "significado": "Identidad: el nombre de Dios representa su carácter (santidad, justicia, amor). Dios promete transformar el carácter de los vencedores." }
+      ],
+      "cita_clave": { "texto": "He aquí, yo vengo pronto; retén lo que tienes, para que ninguno tome tu corona.", "referencia": "Apocalipsis 3:11" },
+      "leccion": "Permanecer firmes a pesar de la decepción; Dios transforma el carácter de sus hijos hacia la justicia, la santidad y el amor."
+    },
+    {
+      "id": "laodicea",
+      "orden": 7,
+      "nombre": "Laodicea",
+      "referencia": "Apocalipsis 3:14-22",
+      "periodo": {
+        "etiqueta": "La iglesia de los últimos tiempos",
+        "desde": 1844,
+        "hasta": null,
+        "era": "d.C.",
+        "aproximado": false,
+        "nota": "Inferido: el TP la ubica en «los últimos tiempos, poco antes del regreso de Jesús», durante el Juicio Investigador. El 1844 de inicio se deduce del fin de Filadelfia."
+      },
+      "ciudad": "Ciudad rica del período romano: ruta comercial entre Éfeso, Esmirna y Sardes, centro de producción textil y bancaria. El agua llegaba tibia por canales desde manantiales termales a diez kilómetros. Su nombre significa «juzgar al pueblo». Abandonada tras un terremoto en el siglo VII.",
+      "mensaje": "Ni fría ni caliente: tibia. Cree que no le falta nada cuando en realidad es «desventurada, miserable, pobre, ciega y desnuda». Cristo, el Testigo Fiel y Verdadero, reprende porque ama.",
+      "cristo_se_presenta": "El Testigo Fiel y Verdadero",
+      "cita_clave": { "texto": "He aquí, yo estoy a la puerta y llamo; si alguno oye mi voz y abre la puerta, entraré a él, y cenaré con él, y él conmigo.", "referencia": "Apocalipsis 3:20" },
+      "simbolos": [
+        { "nombre": "El oro refinado en el fuego", "significado": "La verdad pura, la fe y el amor de Jesús (1 Pedro 1:7)." },
+        { "nombre": "Las vestiduras blancas", "significado": "La justicia de Dios (Apocalipsis 19:8); el perdón de Cristo que limpia y transforma." },
+        { "nombre": "El colirio para los ojos", "significado": "Discernimiento espiritual por el Espíritu Santo (1 Juan 2:27)." },
+        { "nombre": "El agua tibia", "significado": "Una fe que ya no rebosa del calor del amor de Dios." },
+        { "nombre": "La puerta", "significado": "Cristo llama, pero el picaporte está del lado de adentro: nunca fuerza la entrada; la decisión es voluntaria y diaria." }
+      ],
+      "leccion": "Cuidarse de la tibieza espiritual y del autoengaño; Jesús no se da por vencido y convierte en vencedores a quienes le abren."
+    }
+  ],
+  "cierre": {
+    "idea": "Las cartas no son una sentencia de condena: son un llamado de amor y al arrepentimiento. Cada una termina con una promesa «Al que venciere…».",
+    "cita_ellen_white": "«Los nombres de las siete iglesias son símbolos de la iglesia en diferentes períodos de la Era Cristiana. El número 7 indica plenitud, y simboliza el hecho de que los mensajes se extienden hasta el fin del tiempo» (Los Hechos de los Apóstoles, p. 467)."
+  }
+}
