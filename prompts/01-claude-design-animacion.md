@@ -10,7 +10,10 @@
 ```text
 Sos director de motion design y animador vectorial. Quiero la pieza animada principal para la exposición del TP «Interpretación Bíblica de la Historia», Apocalipsis 2 y 3: Las 7 Iglesias.
 
-Leé primero este repositorio: README.md (dirección de arte, storyboard y reglas) y datos/iglesias.json (única fuente de contenido; si algo no está ahí, no lo inventes, preguntame).
+Leé primero este repositorio de GitHub, rama master: https://github.com/osorio-cristian-wt/tp-interpetacion-biblica
+- README.md: dirección de arte, storyboard y reglas. Es tu brief.
+- datos/iglesias.json: única fuente de contenido. Si algo no está ahí, no lo inventes, preguntame.
+- contenido/tp-completo.md: el texto completo del TP; prevalece si hay conflicto con el JSON.
 
 QUÉ CONSTRUIR
 - Animación de 3:00, 16:9, 1920×1080, 100 % vectorial (SVG), en un único HTML autocontenido, exportable a MP4.
